@@ -22,10 +22,9 @@ This project focuses on **financial market data analysis** using AI/ML technique
 
 ```
 📂 AI-Financial-Market-Data-Analysis
- ┣ 📜 README.md
- ┣ 📜 requirements.txt
+ ┣ 📜 README.md 
  ┣ 📓 AI+Financial+&+Market+Data+Analysis.ipynb
- ┗ 📂 data/   # (Optional: dataset files if used)
+ ┗ 📂 data/   
 ```
 
 ## Results & Insights
